@@ -1,0 +1,38 @@
+new demo file
+open demo file
+list
+delete demo file
+open demo file
+close
+list
+open test file
+
+open testfile
+open test demo 
+close
+open test demo 
+close
+new test
+open test
+list
+open demo file
+ open demo file 
+
+list
+open demo file 
+
+open demo file
+new test
+
+close
+new dsademo
+new dsademo1
+open dsademo1
+list
+delete dsademo1
+open dsademo1
+open dsademo
+close
+open dsademo
+open dsademo1
+close
